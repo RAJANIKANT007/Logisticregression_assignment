@@ -13,9 +13,9 @@ General Information.
 the project is about Electric bikes daily usage cnt data anlysis to find the model and factors whcih are affecting the usage count number
 
 Conclusions
-temperature is actor which affects the usage of bikes alot
+temperature and year is variables which affects the usage of bikes alot
 
-Major factor affecting loan outcomes
+Major factor affecting cnt outcomes
 yr data
 temperature and seson are the data set which are affecting the target variable.
 Technologies Used (I have used some python packages and mostly are latest versions)
