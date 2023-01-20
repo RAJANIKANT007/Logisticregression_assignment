@@ -22,7 +22,7 @@ Technologies Used (I have used some python packages and mostly are latest versio
 -numpy 1.23.5 -pandas 1.5.2 -seborn 0.12.1 -plotly 5.11.0 sklearn
 
 Acknowledgements
--This project was inspired by upGrad case study for AI and ML -This project is submitted towards frist case study of MSC in AI and ML
+-This project was inspired by upGrad case study for AI and ML
 
 Contact
 https://github.com/RAJANIKANT007
